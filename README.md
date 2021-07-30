@@ -1,10 +1,8 @@
 ## دانلود فیلم دینامیت
 
-You can use the [editor on GitHub](https://github.com/alfamovie/alfamovie.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+دانلود رایگان فیلم دینامیت , فیلم دینامیت , دانلود فیلم دینامیت با لینک مستقیم , دانلود فیلم ایرانی دینامیت با کیفیت بالا
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### لینک های دانلود
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
